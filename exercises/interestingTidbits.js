@@ -16,4 +16,5 @@ if (bob) {
 (bob && console.log("bob is true"));
 
 // TERNIARY LOOPS  = condition ? expr1 : expr2
+//if condition is true do expr1 else expr2
 (bob ? console.log("bob is true") : console.log("bob is false"));
